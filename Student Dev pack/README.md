@@ -11,7 +11,7 @@ Add your college mail ID
 <img width="397" alt="image" src="https://github.com/LIEThyd/accessing-sdp/assets/100799939/b90c8a61-17cb-49db-bf54-c04d77775f60">
 
 ## Step-4
-Click on the Special [GitHub Campus Expert Link provided](https://gh.io/learnathon)
+Click on the Special [GitHub Campus Expert Link provided](https://gh.io/codevacation24)
 
 ## Step-5
 This page will be opened, click on _Get Students benifits_
